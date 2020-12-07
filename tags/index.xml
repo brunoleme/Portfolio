@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Bruno Leme</title>
+    <link>https://brunoleme.github.io/Portfolio/tags/</link>
+    <description>Recent content in Tags on Bruno Leme</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 01 Dec 2020 11:15:58 -0400</lastBuildDate><atom:link href="https://brunoleme.github.io/Portfolio/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ARIMA</title>
+      <link>https://brunoleme.github.io/Portfolio/tags/arima/</link>
+      <pubDate>Tue, 01 Dec 2020 11:15:58 -0400</pubDate>
+      
+      <guid>https://brunoleme.github.io/Portfolio/tags/arima/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LSTM</title>
+      <link>https://brunoleme.github.io/Portfolio/tags/lstm/</link>
+      <pubDate>Tue, 01 Dec 2020 11:15:58 -0400</pubDate>
+      
+      <guid>https://brunoleme.github.io/Portfolio/tags/lstm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PyTorch</title>
+      <link>https://brunoleme.github.io/Portfolio/tags/pytorch/</link>
+      <pubDate>Tue, 01 Dec 2020 11:15:58 -0400</pubDate>
+      
+      <guid>https://brunoleme.github.io/Portfolio/tags/pytorch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SARIMA</title>
+      <link>https://brunoleme.github.io/Portfolio/tags/sarima/</link>
+      <pubDate>Tue, 01 Dec 2020 11:15:58 -0400</pubDate>
+      
+      <guid>https://brunoleme.github.io/Portfolio/tags/sarima/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Time Series</title>
+      <link>https://brunoleme.github.io/Portfolio/tags/time-series/</link>
+      <pubDate>Tue, 01 Dec 2020 11:15:58 -0400</pubDate>
+      
+      <guid>https://brunoleme.github.io/Portfolio/tags/time-series/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Centrality Measures</title>
+      <link>https://brunoleme.github.io/Portfolio/tags/centrality-measures/</link>
+      <pubDate>Fri, 13 Nov 2020 11:15:58 -0400</pubDate>
+      
+      <guid>https://brunoleme.github.io/Portfolio/tags/centrality-measures/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Community Detection</title>
+      <link>https://brunoleme.github.io/Portfolio/tags/community-detection/</link>
+      <pubDate>Fri, 13 Nov 2020 11:15:58 -0400</pubDate>
+      
+      <guid>https://brunoleme.github.io/Portfolio/tags/community-detection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Facebook</title>
+      <link>https://brunoleme.github.io/Portfolio/tags/facebook/</link>
+      <pubDate>Fri, 13 Nov 2020 11:15:58 -0400</pubDate>
+      
+      <guid>https://brunoleme.github.io/Portfolio/tags/facebook/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Social Network</title>
+      <link>https://brunoleme.github.io/Portfolio/tags/social-network/</link>
+      <pubDate>Fri, 13 Nov 2020 11:15:58 -0400</pubDate>
+      
+      <guid>https://brunoleme.github.io/Portfolio/tags/social-network/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Social Network Analysis</title>
+      <link>https://brunoleme.github.io/Portfolio/tags/social-network-analysis/</link>
+      <pubDate>Fri, 13 Nov 2020 11:15:58 -0400</pubDate>
+      
+      <guid>https://brunoleme.github.io/Portfolio/tags/social-network-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hierarchical Clustering</title>
+      <link>https://brunoleme.github.io/Portfolio/tags/hierarchical-clustering/</link>
+      <pubDate>Mon, 05 Oct 2020 11:14:48 -0400</pubDate>
+      
+      <guid>https://brunoleme.github.io/Portfolio/tags/hierarchical-clustering/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>K-Means</title>
+      <link>https://brunoleme.github.io/Portfolio/tags/k-means/</link>
+      <pubDate>Mon, 05 Oct 2020 11:14:48 -0400</pubDate>
+      
+      <guid>https://brunoleme.github.io/Portfolio/tags/k-means/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Music</title>
+      <link>https://brunoleme.github.io/Portfolio/tags/music/</link>
+      <pubDate>Mon, 05 Oct 2020 11:14:48 -0400</pubDate>
+      
+      <guid>https://brunoleme.github.io/Portfolio/tags/music/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Singular Value Decomposition</title>
+      <link>https://brunoleme.github.io/Portfolio/tags/singular-value-decomposition/</link>
+      <pubDate>Mon, 05 Oct 2020 11:14:48 -0400</pubDate>
+      
+      <guid>https://brunoleme.github.io/Portfolio/tags/singular-value-decomposition/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BeautifulSoup</title>
+      <link>https://brunoleme.github.io/Portfolio/tags/beautifulsoup/</link>
+      <pubDate>Fri, 25 Sep 2020 11:13:32 -0400</pubDate>
+      
+      <guid>https://brunoleme.github.io/Portfolio/tags/beautifulsoup/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BERT</title>
+      <link>https://brunoleme.github.io/Portfolio/tags/bert/</link>
+      <pubDate>Fri, 25 Sep 2020 11:13:32 -0400</pubDate>
+      
+      <guid>https://brunoleme.github.io/Portfolio/tags/bert/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Continuous Skipgram</title>
+      <link>https://brunoleme.github.io/Portfolio/tags/continuous-skipgram/</link>
+      <pubDate>Fri, 25 Sep 2020 11:13:32 -0400</pubDate>
+      
+      <guid>https://brunoleme.github.io/Portfolio/tags/continuous-skipgram/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NLP</title>
+      <link>https://brunoleme.github.io/Portfolio/tags/nlp/</link>
+      <pubDate>Fri, 25 Sep 2020 11:13:32 -0400</pubDate>
+      
+      <guid>https://brunoleme.github.io/Portfolio/tags/nlp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RandomizedSearch</title>
+      <link>https://brunoleme.github.io/Portfolio/tags/randomizedsearch/</link>
+      <pubDate>Fri, 25 Sep 2020 11:13:32 -0400</pubDate>
+      
+      <guid>https://brunoleme.github.io/Portfolio/tags/randomizedsearch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Text Classification</title>
+      <link>https://brunoleme.github.io/Portfolio/tags/text-classification/</link>
+      <pubDate>Fri, 25 Sep 2020 11:13:32 -0400</pubDate>
+      
+      <guid>https://brunoleme.github.io/Portfolio/tags/text-classification/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Feature Discretization</title>
+      <link>https://brunoleme.github.io/Portfolio/tags/feature-discretization/</link>
+      <pubDate>Thu, 10 Sep 2020 11:00:59 -0400</pubDate>
+      
+      <guid>https://brunoleme.github.io/Portfolio/tags/feature-discretization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Feature Selection</title>
+      <link>https://brunoleme.github.io/Portfolio/tags/feature-selection/</link>
+      <pubDate>Thu, 10 Sep 2020 11:00:59 -0400</pubDate>
+      
+      <guid>https://brunoleme.github.io/Portfolio/tags/feature-selection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Impute Missing Values</title>
+      <link>https://brunoleme.github.io/Portfolio/tags/impute-missing-values/</link>
+      <pubDate>Thu, 10 Sep 2020 11:00:59 -0400</pubDate>
+      
+      <guid>https://brunoleme.github.io/Portfolio/tags/impute-missing-values/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lasso Regression</title>
+      <link>https://brunoleme.github.io/Portfolio/tags/lasso-regression/</link>
+      <pubDate>Thu, 10 Sep 2020 11:00:59 -0400</pubDate>
+      
+      <guid>https://brunoleme.github.io/Portfolio/tags/lasso-regression/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Logistic Regression</title>
+      <link>https://brunoleme.github.io/Portfolio/tags/logistic-regression/</link>
+      <pubDate>Thu, 10 Sep 2020 11:00:59 -0400</pubDate>
+      
+      <guid>https://brunoleme.github.io/Portfolio/tags/logistic-regression/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Variable Clustering</title>
+      <link>https://brunoleme.github.io/Portfolio/tags/variable-clustering/</link>
+      <pubDate>Thu, 10 Sep 2020 11:00:59 -0400</pubDate>
+      
+      <guid>https://brunoleme.github.io/Portfolio/tags/variable-clustering/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ARIMA on Bruno Leme</title>
+    <link>https://brunoleme.github.io/Portfolio/tags/arima/</link>
+    <description>Recent content in ARIMA on Bruno Leme</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 01 Dec 2020 11:15:58 -0400</lastBuildDate><atom:link href="https://brunoleme.github.io/Portfolio/tags/arima/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project 6: Forecasting Industry Gross Revenue (Time Series Analysis)</title>
+      <link>https://brunoleme.github.io/Portfolio/post/project-6/</link>
+      <pubDate>Tue, 01 Dec 2020 11:15:58 -0400</pubDate>
+      
+      <guid>https://brunoleme.github.io/Portfolio/post/project-6/</guid>
+      <description>In this project I tried to create a Time Series Model to learn the patterns of a series of Gross Revenue from the brazilian industry, from 2005 to 2020, in order to forecast this series along future time steps.
+Approaches:
+  SARIMA Model: using Box &amp;amp; Jenkins Methodology, testing endogenous features as well.
+  LSTM Model: using the same features as before, even first and second differentiation of the series.</description>
+    </item>
+    
+  </channel>
+</rss>

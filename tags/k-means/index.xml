@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>K-Means on Bruno Leme</title>
+    <link>https://brunoleme.github.io/Portfolio/tags/k-means/</link>
+    <description>Recent content in K-Means on Bruno Leme</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 05 Oct 2020 11:14:48 -0400</lastBuildDate><atom:link href="https://brunoleme.github.io/Portfolio/tags/k-means/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project 4: Dimension Reduction and Clustering on Facebook Friends and their Music Page Likes.</title>
+      <link>https://brunoleme.github.io/Portfolio/post/project-4/</link>
+      <pubDate>Mon, 05 Oct 2020 11:14:48 -0400</pubDate>
+      
+      <guid>https://brunoleme.github.io/Portfolio/post/project-4/</guid>
+      <description>This is an old project that I recently replicated in Python. This study is focused on my Facebook friends data, collected through Facebook Graph API. I collected my list of friends and the list of music pages each of them liked.
+I treated the json data to structure the data in a matrix format with shape n X m, where n is the number of user friends and m is the number of music pages.</description>
+    </item>
+    
+  </channel>
+</rss>

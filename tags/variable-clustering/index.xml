@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Variable Clustering on Bruno Leme</title>
+    <link>https://brunoleme.github.io/Portfolio/tags/variable-clustering/</link>
+    <description>Recent content in Variable Clustering on Bruno Leme</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 10 Sep 2020 11:00:59 -0400</lastBuildDate><atom:link href="https://brunoleme.github.io/Portfolio/tags/variable-clustering/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project 2: Cardiac Arrhythmia Prediction (Binary Classification)</title>
+      <link>https://brunoleme.github.io/Portfolio/post/project-2/</link>
+      <pubDate>Thu, 10 Sep 2020 11:00:59 -0400</pubDate>
+      
+      <guid>https://brunoleme.github.io/Portfolio/post/project-2/</guid>
+      <description>In this project, I built a model to classify if patients are suffering cardiac arrhythmia. The data used in this project was collected during some researches at H. Altay Guvenir Bilkent University, the dataset can be downloaded here at UCI platform.
+To prepare the datasets before the model fitting, I used the custom framework I developed (published in this portfolio as Project 1). The following steps were followed:
+  Data Prep: feature types and target definition, null character (?</description>
+    </item>
+    
+    <item>
+      <title>Project 1: Custom Machine Learning Framework</title>
+      <link>https://brunoleme.github.io/Portfolio/post/project-1/</link>
+      <pubDate>Sun, 10 May 2020 11:00:59 -0400</pubDate>
+      
+      <guid>https://brunoleme.github.io/Portfolio/post/project-1/</guid>
+      <description>During the process of machine learning modelos development, there are several steps we usually follow to find the best fit model, ensuring that this model were generalizable to new unknown datasets. The common steps followed are data sampling, data partition, feature engineering, feature selection, correlation analysis, feature discretization and model adjustment. Each of these steps can demand a lot of work for each machine learning project.
+In this project, I built a set of classes to automate several parts of these usual steps, making use of sklearn base classes BaseEstimator and TransformerMixin, in order to allow its use in sklearn pipelines, with the use of fit/transform methods.</description>
+    </item>
+    
+  </channel>
+</rss>

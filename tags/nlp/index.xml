@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>NLP on Bruno Leme</title>
+    <link>https://brunoleme.github.io/Portfolio/tags/nlp/</link>
+    <description>Recent content in NLP on Bruno Leme</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 25 Sep 2020 11:13:32 -0400</lastBuildDate><atom:link href="https://brunoleme.github.io/Portfolio/tags/nlp/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project 3: Music Genre Classification based on Lyrics (Multiclass Classification)</title>
+      <link>https://brunoleme.github.io/Portfolio/post/project-3/</link>
+      <pubDate>Fri, 25 Sep 2020 11:13:32 -0400</pubDate>
+      
+      <guid>https://brunoleme.github.io/Portfolio/post/project-3/</guid>
+      <description>In this project I built a model do classify the genre of a music, based on its lyric. The model was trained with some popular brazilian music styles, such as Axé, Funk, MPB, Pagode, Samba and Sertanejo. I collected music lyrics in LETRAS.MUS.BR web site, I developed web scrappers, one for each music genre, using Python package BeaultifulSoup. Almost 1k lyrics was collected for each genre. The web crawlers codes are available here.</description>
+    </item>
+    
+  </channel>
+</rss>

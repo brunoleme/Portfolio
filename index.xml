@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Science Portfolio on Bruno Leme</title>
+    <link>https://brunoleme.github.io/Portfolio/</link>
+    <description>Recent content in Data Science Portfolio on Bruno Leme</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 01 Dec 2020 11:15:58 -0400</lastBuildDate><atom:link href="https://brunoleme.github.io/Portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project 6: Forecasting Industry Gross Revenue (Time Series Analysis)</title>
+      <link>https://brunoleme.github.io/Portfolio/post/project-6/</link>
+      <pubDate>Tue, 01 Dec 2020 11:15:58 -0400</pubDate>
+      
+      <guid>https://brunoleme.github.io/Portfolio/post/project-6/</guid>
+      <description>In this project I tried to create a Time Series Model to learn the patterns of a series of Gross Revenue from the brazilian industry, from 2005 to 2020, in order to forecast this series along future time steps.
+Approaches:
+  SARIMA Model: using Box &amp;amp; Jenkins Methodology, testing endogenous features as well.
+  LSTM Model: using the same features as before, even first and second differentiation of the series.</description>
+    </item>
+    
+    <item>
+      <title>Project 5: A Social Network Analysis on my Personal Life</title>
+      <link>https://brunoleme.github.io/Portfolio/post/project-5/</link>
+      <pubDate>Fri, 13 Nov 2020 11:15:58 -0400</pubDate>
+      
+      <guid>https://brunoleme.github.io/Portfolio/post/project-5/</guid>
+      <description>This is the second part of an old project that I recently replicated in Python, it was presented as my Conclusion Work of my Post-Graduation at FIA School. This study is focused on my Facebook friends data and their friendship connections, collected through Facebook Netvizz App. This app treats json returns from Facebook Graph API, and formats in two files of nodes (friends) and edges (friendship relations).
+I used the Python package Networkx to detect communities based on nodes relationships and to compute centrality measures, in order to understand patterns on detected communities and identify aspects of leadership and popularity in my personal friends.</description>
+    </item>
+    
+    <item>
+      <title>Project 4: Dimension Reduction and Clustering on Facebook Friends and their Music Page Likes.</title>
+      <link>https://brunoleme.github.io/Portfolio/post/project-4/</link>
+      <pubDate>Mon, 05 Oct 2020 11:14:48 -0400</pubDate>
+      
+      <guid>https://brunoleme.github.io/Portfolio/post/project-4/</guid>
+      <description>This is an old project that I recently replicated in Python. This study is focused on my Facebook friends data, collected through Facebook Graph API. I collected my list of friends and the list of music pages each of them liked.
+I treated the json data to structure the data in a matrix format with shape n X m, where n is the number of user friends and m is the number of music pages.</description>
+    </item>
+    
+    <item>
+      <title>Project 3: Music Genre Classification based on Lyrics (Multiclass Classification)</title>
+      <link>https://brunoleme.github.io/Portfolio/post/project-3/</link>
+      <pubDate>Fri, 25 Sep 2020 11:13:32 -0400</pubDate>
+      
+      <guid>https://brunoleme.github.io/Portfolio/post/project-3/</guid>
+      <description>In this project I built a model do classify the genre of a music, based on its lyric. The model was trained with some popular brazilian music styles, such as Axé, Funk, MPB, Pagode, Samba and Sertanejo. I collected music lyrics in LETRAS.MUS.BR web site, I developed web scrappers, one for each music genre, using Python package BeaultifulSoup. Almost 1k lyrics was collected for each genre. The web crawlers codes are available here.</description>
+    </item>
+    
+    <item>
+      <title>Project 2: Cardiac Arrhythmia Prediction (Binary Classification)</title>
+      <link>https://brunoleme.github.io/Portfolio/post/project-2/</link>
+      <pubDate>Thu, 10 Sep 2020 11:00:59 -0400</pubDate>
+      
+      <guid>https://brunoleme.github.io/Portfolio/post/project-2/</guid>
+      <description>In this project, I built a model to classify if patients are suffering cardiac arrhythmia. The data used in this project was collected during some researches at H. Altay Guvenir Bilkent University, the dataset can be downloaded here at UCI platform.
+To prepare the datasets before the model fitting, I used the custom framework I developed (published in this portfolio as Project 1). The following steps were followed:
+  Data Prep: feature types and target definition, null character (?</description>
+    </item>
+    
+    <item>
+      <title>Project 1: Custom Machine Learning Framework</title>
+      <link>https://brunoleme.github.io/Portfolio/post/project-1/</link>
+      <pubDate>Sun, 10 May 2020 11:00:59 -0400</pubDate>
+      
+      <guid>https://brunoleme.github.io/Portfolio/post/project-1/</guid>
+      <description>During the process of machine learning modelos development, there are several steps we usually follow to find the best fit model, ensuring that this model were generalizable to new unknown datasets. The common steps followed are data sampling, data partition, feature engineering, feature selection, correlation analysis, feature discretization and model adjustment. Each of these steps can demand a lot of work for each machine learning project.
+In this project, I built a set of classes to automate several parts of these usual steps, making use of sklearn base classes BaseEstimator and TransformerMixin, in order to allow its use in sklearn pipelines, with the use of fit/transform methods.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://brunoleme.github.io/Portfolio/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://brunoleme.github.io/Portfolio/contact/</guid>
+      <description>Contact me on these social media platforms
+   Platform URL     LinkedIn: https://www.linkedin.com/in/bleme/   GitHub: https://github.com/brunoleme/    </description>
+    </item>
+    
+  </channel>
+</rss>
